@@ -1,0 +1,47 @@
+{
+  "objectInfo" : {
+    "id" : "6xGmEGRS7c7l8xiAgu954T",
+    "name" : "RuleSpec_city",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6xGmEGRS7c7l8xiAgu954T"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2025-02-07T12:38:18.401Z",
+  "objectRefs" : [ {
+    "id" : "eHxj4o9M7OZkd6u5dc9DWz",
+    "name" : "Dictionary_City",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "eHxj4o9M7OZkd6u5dc9DWz"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Vinutt"
+  } ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}
